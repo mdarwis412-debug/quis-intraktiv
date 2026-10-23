@@ -1,4 +1,14 @@
-<!DOCTYPE html>
+<script>
+    tailwind.config = {
+        theme: {
+            extend: {
+                fontFamily: {
+                    sans: ['Poppins', 'sans-serif'],
+                }
+            }
+        }
+    }
+</script><!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
